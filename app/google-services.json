@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185474096962",
+    "project_id": "localiser-31fe1",
+    "storage_bucket": "localiser-31fe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185474096962:android:8f874ec0a68edb5aecb2db",
+        "android_client_info": {
+          "package_name": "com.example.localisermonenfant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185474096962-himr0gsb4if5a7889oird6l6rdf2ev68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWdPAMgI2SimPVwdGdhBQ_RzQkJJpSh50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185474096962-himr0gsb4if5a7889oird6l6rdf2ev68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
